@@ -1,0 +1,344 @@
+[
+  {
+    "id": "0",
+    "type": "recreational",
+    "activity": "Go outside and play a game of hockey",
+    "image": "http://localhost:8080/images/street-hockey.jpg"
+  },
+  {
+    "id": "1",
+    "type": "recreational",
+    "activity": "Go outside and play a game of basketball",
+    "image": "http://localhost:8080/images/parc-basketball.jpg"
+  },
+  {
+    "id": "2",
+    "type": "recreational",
+    "activity": "Go for a jog/run",
+    "image": "http://localhost:8080/images/going-for-a-run.jpg"
+  },
+  {
+    "id": "3",
+    "type": "recreational",
+    "activity": "Go for a bike ride",
+    "image": "http://localhost:8080/images/bike-ride.jpg"
+  },
+  {
+    "id": "4",
+    "type": "recreational",
+    "activity": "Go for a hike",
+    "image": "http://localhost:8080/images/hiking.jpg"
+  },
+  {
+    "id": "5",
+    "type": "recreational",
+    "activity": "Do some yoga",
+    "image": "http://localhost:8080/images/yoga.jpg"
+  },
+  {
+    "id": "6",
+    "type": "recreational",
+    "activity": "Go out and take pictures",
+    "image": "http://localhost:8080/images/photography.jpg"
+  },
+  {
+    "id": "7",
+    "type": "recreational",
+    "activity": "Go out for a walk",
+    "image": "http://localhost:8080/images/walking.jpg"
+  },
+  {
+    "id": "8",
+    "type": "recreational",
+    "activity": "go to the beach for a swim",
+    "image": "http://localhost:8080/images/beach-swimming.jpg"
+  },
+  {
+    "id": "9",
+    "type": "recreational",
+    "activity": "Watch a movie",
+    "image": "http://localhost:8080/images/watching-a-movie.jpg"
+  },
+  {
+    "id": "10",
+    "type": "recreational",
+    "activity": "Do a jigsaw puzzle",
+    "image": "http://localhost:8080/images/jigsaw-puzzle.jpg"
+  },
+  {
+    "id": "11",
+    "type": "educational",
+    "activity": "Read a book",
+    "image": "http://localhost:8080/images/reading-book.jpg"
+  },
+  {
+    "id": "12",
+    "type": "educational",
+    "activity": "Learn to greet someone in a new language",
+    "image": "http://localhost:8080/images/greeting.jpg"
+  },
+  {
+    "id": "13",
+    "type": "educational",
+    "activity": "Research a topic you're interested in",
+    "image": "http://localhost:8080/images/research.jpg"
+  },
+  {
+    "id": "14",
+    "type": "educational",
+    "activity": "Learn JavaScript",
+    "image": "http://localhost:8080/images/javascript.jpg"
+  },
+  {
+    "id": "15",
+    "type": "educational",
+    "activity": "Learn to cook a new meal",
+    "image": "http://localhost:8080/images/cooking-meal.jpg"
+  },
+  {
+    "id": "16",
+    "type": "educational",
+    "activity": "Writing a short story",
+    "image": "http://localhost:8080/images/writing-a-story.jpg"
+  },
+  {
+    "id": "17",
+    "type": "educational",
+    "activity": "Answer riddles",
+    "image": "http://localhost:8080/images/riddles.jpg"
+  },
+  {
+    "id": "18",
+    "type": "educational",
+    "activity": "Do a sudoku",
+    "image": "http://localhost:8080/images/sudoku.jpg"
+  },
+  {
+    "id": "19",
+    "type": "educational",
+    "activity": "Do a crossword",
+    "image": "http://localhost:8080/images/crossword.jpg"
+  },
+  {
+    "id": "20",
+    "type": "educational",
+    "activity": "Research family history",
+    "image": "http://localhost:8080/images/family-tree.jpg"
+  },
+  {
+    "id": "21",
+    "type": "educational",
+    "activity": "Watch a debate",
+    "image": "http://localhost:8080/images/debate.jpg"
+  },
+  {
+    "id": "22",
+    "type": "social",
+    "activity": "Make a new friend",
+    "image": "http://localhost:8080/images/making-friends.jpg"
+  },
+  {
+    "id": "23",
+    "type": "social",
+    "activity": "Take a spontaneous road trip with some friends",
+    "image": "http://localhost:8080/images/roadtrip.jpg"
+  },
+  {
+    "id": "24",
+    "type": "social",
+    "activity": "Host a watch party with friends",
+    "image": "http://localhost:8080/images/watch-party.jpg"
+  },
+  {
+    "id": "25",
+    "type": "social",
+    "activity": "Reach out to a friend you haven't talked to in a long time",
+    "image": "http://localhost:8080/images/reaching-out-to-friend.jpg"
+  },
+  {
+    "id": "26",
+    "type": "social",
+    "activity": "Have a karaoke party at home with friends",
+    "image": "http://localhost:8080/images/karaoke.jpg"
+  },
+  {
+    "id": "27",
+    "type": "social",
+    "activity": "Go to the beach with friends",
+    "image": "http://localhost:8080/images/beach-with-friends.jpg"
+  },
+  {
+    "id": "28",
+    "type": "social",
+    "activity": "Have a game night with friends",
+    "image": "http://localhost:8080/images/board-games.jpg"
+  },
+  {
+    "id": "29",
+    "type": "social",
+    "activity": "Go to an open house with friends",
+    "image": "http://localhost:8080/images/open-house.jpg"
+  },
+  {
+    "id": "30",
+    "type": "social",
+    "activity": "Have a paper airplane competition with friends",
+    "image": "http://localhost:8080/images/paper-airplane.jpg"
+  },
+  {
+    "id": "31",
+    "type": "social",
+    "activity": "Go window shopping with friends",
+    "image": "http://localhost:8080/images/window-shopping.jpg"
+  },
+  {
+    "id": "32",
+    "type": "social",
+    "activity": "Stargaze or cloud watch with friends",
+    "image": "http://localhost:8080/images/stars-clouds.jpg"
+  },
+  {
+    "id": "33",
+    "type": "relaxation",
+    "activity": "binge watch a show",
+    "image": "http://localhost:8080/images/binge-tv.jpg"
+  },
+  {
+    "id": "34",
+    "type": "relaxation",
+    "activity": "play a video game",
+    "image": "http://localhost:8080/images/video-game.jpg"
+  },
+  {
+    "id": "35",
+    "type": "relaxation",
+    "activity": "Read a book",
+    "image": "http://localhost:8080/images/reading-book.jpg"
+  },
+  {
+    "id": "36",
+    "type": "relaxation",
+    "activity": "have a nap",
+    "image": "http://localhost:8080/images/napping.jpg"
+  },
+  {
+    "id": "37",
+    "type": "relaxation",
+    "activity": "Meditation",
+    "image": "http://localhost:8080/images/meditate.jpg"
+  },
+  {
+    "id": "38",
+    "type": "relaxation",
+    "activity": "Call a friend",
+    "image": "http://localhost:8080/images/on-the-phone.jpg"
+  },
+  {
+    "id": "39",
+    "type": "relaxation",
+    "activity": "Go for a walk",
+    "image": "http://localhost:8080/images/walking-alone.jpg"
+  },
+  {
+    "id": "40",
+    "type": "relaxation",
+    "activity": "Listen to music",
+    "image": "http://localhost:8080/images/listening-to-music.jpg"
+  },
+  {
+    "id": "41",
+    "type": "relaxation",
+    "activity": "Draw a picture",
+    "image": "http://localhost:8080/images/drawing.jpg"
+  },
+  {
+    "id": "42",
+    "type": "relaxation",
+    "activity": "Take a nice bath",
+    "image": "http://localhost:8080/images/bathing.jpg"
+  },
+  {
+    "id": "43",
+    "type": "relaxation",
+    "activity": "Go swing on a swing",
+    "image": "http://localhost:8080/images/swinging.jpg"
+  },
+  {
+    "id": "44",
+    "type": "relaxation",
+    "activity": "Look through old photos",
+    "image": "http://localhost:8080/images/looking-at-photos.jpg"
+  },
+  {
+    "id": "45",
+    "type": "productive",
+    "activity": "Clean the house",
+    "image": "http://localhost:8080/images/cleaning.jpg"
+  },
+  {
+    "id": "46",
+    "type": "productive",
+    "activity": "Schedule your day/week",
+    "image": "http://localhost:8080/images/scheduling.jpg"
+  },
+  {
+    "id": "47",
+    "type": "productive",
+    "activity": "Learn a new skill",
+    "image": "http://localhost:8080/images/learn-new-skill.jpg"
+  },
+  {
+    "id": "48",
+    "type": "productive",
+    "activity": "Do some exercise",
+    "image": "http://localhost:8080/images/exercise.jpg"
+  },
+  {
+    "id": "49",
+    "type": "productive",
+    "activity": "Go for a run",
+    "image": "http://localhost:8080/images/running.jpg"
+  },
+  {
+    "id": "50",
+    "type": "productive",
+    "activity": "Do volunteer work",
+    "image": "http://localhost:8080/images/volunteer.jpg"
+  },
+  {
+    "id": "51",
+    "type": "productive",
+    "activity": "Network with people",
+    "image": "http://localhost:8080/images/networking.jpg"
+  },
+  {
+    "id": "52",
+    "type": "productive",
+    "activity": "Enroll in a free course",
+    "image": "http://localhost:8080/images/enrolling.jpg"
+  },
+  {
+    "id": "53",
+    "type": "productive",
+    "activity": "De-clutter your inbox",
+    "image": "http://localhost:8080/images/email.jpg"
+  },
+  {
+    "id": "54",
+    "type": "productive",
+    "activity": "Organize your computer",
+    "image": "http://localhost:8080/images/organizing-computer.jpg"
+  },
+  {
+    "id": "55",
+    "type": "productive",
+    "activity": "Cook a healthy meal",
+    "image": "http://localhost:8080/images/healthy-cooking.jpg"
+  },
+  {
+    "id": "56",
+    "type": "productive",
+    "activity": "Catch up with your industry news",
+    "image": "http://localhost:8080/images/news.jpg"
+  }
+]

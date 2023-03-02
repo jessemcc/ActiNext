@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // background-color: #f3f3f3;
+    border-bottom: 1px solid black;
+    padding: 0;
+    width: 100%;
+
+    &__wrap {
+        width: 100%;
+        max-width: 1020px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: row;
+        padding: 0 3rem;
+    }
+
+    &__logo {
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    &__nav-list {
+        display: flex;
+        justify-content: space-between;
+        width: 20rem;
+    }
+
+    &__link {
+        text-decoration: none;
+        color: black;
+        padding: 0 0.5rem;
+    }
+}

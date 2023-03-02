@@ -1,0 +1,16 @@
+@use "./partials/resets";
+
+
+.body-wrap {
+    width: 100%;
+    max-width: 1020px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
